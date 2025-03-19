@@ -1,0 +1,17 @@
+.header {
+  padding: 2rem 0;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.eco {
+  color: rgb(142, 180, 134)
+}
+
+.search {
+  color: #000;
+}
+
